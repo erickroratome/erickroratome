@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=cccccc)](https://www.linkedin.com/in/erick-ogai-95a169268/)
 [![HackTheBox](https://img.shields.io/badge/hackthebox-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9fef00)](https://app.hackthebox.com/users/1677670)
-[![GitHub](https://img.shields.io/badge/github-0a0a0a?style=for-the-badge&logo=github&logoColor=cccccc)](https://github.com/erickroratome)
 
 </div>
 
